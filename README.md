@@ -13,3 +13,7 @@ Start at [index.md](index.md).
 - Links are bundle-root absolute (`/principles/construction.md`), as in the OKF examples.
 - Principle IDs (`REQ-2`, `G-A1`) are stable and never reused; retire instead of deleting.
 - `index.md` per directory for progressive disclosure; `log.md` at the root records changes.
+
+## Licence
+
+MIT — see [LICENSE](LICENSE).
